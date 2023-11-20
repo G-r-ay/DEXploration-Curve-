@@ -5,7 +5,7 @@ from datetime import datetime, timedelta
 start_date = datetime(2020, 8, 1, 0, 0, 0)
 end_date = datetime(2023, 8, 10, 0, 0, 0)
 flipside = Flipside(
-    "3adf6867-7aa7-422f-a4d7-67c0c999032a", "https://api-v2.flipsidecrypto.xyz"
+    "api-key", "https://api-v2.flipsidecrypto.xyz"
 )
 result_df = pd.DataFrame(columns=["Date", "Trading Volume"])
 current_date = start_date
