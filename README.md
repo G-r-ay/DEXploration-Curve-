@@ -21,4 +21,6 @@ Explore the dynamics of Curve Finance, a leading decentralized finance (DeFi) pr
 3. Extract insights for informed decision-making within the DeFi landscape.
 4. Use the Trading Volume preidctor for the DAI/USDT/USDC 3POOL to get trading volume forcasts
 
+- assest: https://market.oceanprotocol.com/asset/did:op:23f6d705fd56f3fdc97d4fa7f6ec303c30d2a7af2437408026ef3dfe16e10422
+- 
 Feel free to contribute, use, or provide feedback to enrich our understanding of Curve Finance and contribute to the broader DeFi community.
