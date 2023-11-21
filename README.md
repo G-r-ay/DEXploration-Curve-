@@ -12,7 +12,7 @@ Explore the dynamics of Curve Finance, a leading decentralized finance (DeFi) pr
 - **Data**: Datasets used for analysis.
 - **Data Functions**: SQL, pyhton code used to retrive data from [flipside](https://flipsidecrypto.xyz/)
 - **Notebooks**: Jupyter notebooks with step-by-step analyses.
-- **Reports**: Detailed reports summarizing findings and insights.
+- **Dexploration.zip**: Detailed reports summarizing findings and insights.
 - **Modelling**: Model building notebook and model weight
 
 ## **Usage:**
